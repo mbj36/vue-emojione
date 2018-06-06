@@ -9,6 +9,7 @@
     "build-bundle": "vue-cli-service build --target lib --name vue-emojione ./src/components/index.js"
   },
   "dependencies": {
+    "emojione": "^3.1.4",
     "vue": "^2.5.16"
   },
   "devDependencies": {
